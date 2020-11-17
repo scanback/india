@@ -1,2 +1,2 @@
-# ind
+# india
 India state data
